@@ -1,0 +1,70 @@
+.pretraga{
+  color: white;
+}
+
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.visina{
+  height: 300px;
+}
+
+p{
+  color: white;
+  
+  border: 2px solid powderblue;
+  padding: 10px;
+  margin-top: 400px;
+}
+
+.donjaMargina{
+  margin-bottom: 50px;
+}
+
+/*.button {
+  background-color: #000000; 
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px
+}*/
+
+.button-navy { background-color: rgb(46, 84, 133); } 
+.button-navy1 { background-color: yellow; } 
+.button-navy2 { background-color: red; } 
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: navy;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(226, 216, 216);
+  }
+
+  .margina{
+    margin-left: 5px;
+  }
